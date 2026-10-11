@@ -1,6 +1,6 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-        
+
         mp = {}
 
         for s in strs:
@@ -11,7 +11,7 @@ class Solution:
                 mp[sorted_s].append(s)
 
         res = []
-        for key,value in mp.items():
+        for key, value in mp.items():
             res.append(value)
-        
+
         return res
