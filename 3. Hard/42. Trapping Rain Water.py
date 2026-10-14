@@ -26,24 +26,24 @@ class Solution:
 # --> Two Pointer Approach
 
 
-class Solution:
-    def trap(self, height: list[int]) -> int:
-        n = len(height)
-        left, right = 0, n - 1
-        total_water = 0
-        left_maxima, right_maxima = height[0], height[n - 1]
+# class Solution:
+#     def trap(self, height: list[int]) -> int:
+#         n = len(height)
+#         left, right = 0, n - 1
+#         total_water = 0
+#         left_maxima, right_maxima = height[0], height[n - 1]
 
-        while left < right:
-            if height[left] < height[right]:
-                if height[left] < left_maxima:
-                    total_water += left_maxima - height[left]
-                else:
-                    left_maxima = height[left]
-                left += 1
-            else:
-                if height[right] < right_maxima:
-                    total_water += right_maxima - height[right]
-                else:
-                    right_maxima = height[right]
-                right -= 1
-        return total_water
+#         while left < right:
+#             if height[left] < height[right]:
+#                 if height[left] < left_maxima:
+#                     total_water += left_maxima - height[left]
+#                 else:
+#                     left_maxima = height[left]
+#                 left += 1
+#             else:
+#                 if height[right] < right_maxima:
+#                     total_water += right_maxima - height[right]
+#                 else:
+#                     right_maxima = height[right]
+#                 right -= 1
+#         return total_water
