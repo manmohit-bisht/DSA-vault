@@ -17,3 +17,17 @@ class Solution:
             fast = nums[fast]
 
         return slow
+
+
+# solution using set -> can be done altohugh it will take O(n) space complexity
+class Solution:
+    def findDuplicate(self, nums: list[int]) -> int:
+        visited = set()
+
+        index = 0
+        while True:
+            if nums[index] not in visited:
+                visited.add(nums[index])
+                index = nums[index]
+            else:
+                return nums[index]
