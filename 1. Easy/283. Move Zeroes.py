@@ -4,7 +4,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        left, right = 0, n - 1
+        left = 0
 
         for right in range(n):
             if nums[right] != 0:
