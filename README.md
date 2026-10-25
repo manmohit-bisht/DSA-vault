@@ -7,7 +7,9 @@
 - [1. Two Sum](<1. Easy/1. Two Sum.py>)
 - [20. Valid Parentheses](<1. Easy/20. Valid Parentheses.py>)
 - [21. Merge Two Sorted Lists](<1. Easy/21. Merge Two Sorted Lists.py>)
+- [26. Remove Duplicates from Sorted Array](<1. Easy/26. Remove Duplicates from Sorted Array.py>)
 - [35. Search Insert Position](<1. Easy/35. Search Insert Position.py>)
+- [58. Length of Last Word](<1. Easy/58. Length of Last Word.py>)
 - [121. Best Time to Buy and Sell Stock](<1. Easy/121. Best Time to Buy and Sell Stock.py>)
 - [125. Valid Palindrome](<1. Easy/125. Valid Palindrome.py>)
 - [136. Single Number](<1. Easy/136. Single Number.py>)
@@ -18,6 +20,9 @@
 - [242. Valid Anagram](<1. Easy/242. Valid Anagram.py>)
 - [283. Move Zeroes](<1. Easy/283. Move Zeroes.py>)
 - [704. Binary Search](<1. Easy/704. Binary Search.py>)
+- [905. Sort Array By Parity](<1. Easy/905. Sort Array By Parity.py>)
+- [1108. Defanging an IP Address](<1. Easy/1108. Defanging an IP Address.py>)
+- [1480. Running Sum of 1d Array](<1. Easy/1480. Running Sum of 1d Array.py>)
 
 ### Medium
 
@@ -30,6 +35,7 @@
 - [53. Maximum Subarray](<2. Medium/53. Maximum Subarray.py>)
 - [74. Search a 2D Matrix](<2. Medium/74. Search a 2D Matrix.py>)
 - [75. Sort Colors](<2. Medium/75. Sort Colors.py>)
+- [80. Remove Duplicates from Sorted Array II](<2. Medium/80. Remove Duplicates from Sorted Array II.py>)
 - [128. Longest Consecutive Sequence](<2. Medium/128. Longest Consecutive Sequence.py>)
 - [143. Reorder List](<2. Medium/143. Reorder List.py>)
 - [150. Evaluate Reverse Polish Notation](<2. Medium/150. Evaluate Reverse Polish Notation.py>)
