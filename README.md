@@ -18,8 +18,10 @@
 - [206. Reverse Linked List](<1. Easy/206. Reverse Linked List.py>)
 - [217. Contains Duplicate](<1. Easy/217. Contains Duplicate.py>)
 - [242. Valid Anagram](<1. Easy/242. Valid Anagram.py>)
+- [263. Ugly Number](<1. Easy/263. Ugly Number.py>)
 - [283. Move Zeroes](<1. Easy/283. Move Zeroes.py>)
 - [349. Intersection of Two Arrays](<1. Easy/349. Intersection of Two Arrays.py>)
+- [680. Valid Palindrome II](<1. Easy/680. Valid Palindrome II.py>)
 - [704. Binary Search](<1. Easy/704. Binary Search.py>)
 - [844. Backspace String Compare](<1. Easy/844. Backspace String Compare.py>)
 - [905. Sort Array By Parity](<1. Easy/905. Sort Array By Parity.py>)
@@ -31,6 +33,7 @@
 
 - [2. Add Two Numbers](<2. Medium/2. Add Two Numbers.py>)
 - [3. Longest Substring Without Repeating Characters](<2. Medium/3. Longest Substring Without Repeating Characters.py>)
+- [7. Reverse Integer](<2. Medium/7. Reverse Integer.py>)
 - [11. Container With Most Water](<2. Medium/11. Container With Most Water.py>)
 - [15. 3 Sum](<2. Medium/15. 3 Sum.py>)
 - [19. Remove Nth Node From End of List](<2. Medium/19. Remove Nth Node From End of List.py>)
