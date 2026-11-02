@@ -24,3 +24,6 @@ class Solution:
             return curr
         else:
             return (curr + prev) / 2
+
+
+# an better approach and more efficient approach is to use binary search to find the median in O(log(min(m, n))) time complexity. Here is the implementation:
