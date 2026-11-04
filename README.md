@@ -56,6 +56,7 @@
 - [287. Find the Duplicate Number](<2. Medium/287. Find the Duplicate Number.py>)
 - [347. Top K Frequent Elements](<2. Medium/347. Top K Frequent Elements.py>)
 - [633. Sum of Square Numbers](<2. Medium/633. Sum of Square Numbers.py>)
+- [739. Daily Temperatures](<2. Medium/739. Daily Temperatures.py>)
 - [875. Koko Eating Bananas](<2. Medium/875. Koko Eating Bananas.py>)
 - [2095. Delete the Middle Node of a Linked List](<2. Medium/2095. Delete the Middle Node of a Linked List.py>)
 - [2226. Maximum Candies Allocated to K Children](<2. Medium/2226. Maximum Candies Allocated to K Children.py>)
@@ -63,4 +64,5 @@
 
 ### Hard
 
+- [4. Median of Two Sorted Arrays](<3. Hard/4. Median of Two Sorted Arrays.py>)
 - [42. Trapping Rain Water](<3. Hard/42. Trapping Rain Water.py>)
